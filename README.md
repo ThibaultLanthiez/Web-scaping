@@ -1,5 +1,5 @@
 # Web-scaping
 
-[Code](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Projet_1_Classification_Odds_Football_leagues.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Web-scaping/blob/main/Projet_5_Web_Scaping_Position_des_capitals.ipynb)
 
 [Retour](https://github.com/ThibaultLanthiez/Portfolio)
