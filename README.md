@@ -10,6 +10,8 @@ Mon lien d'entrée était la [page wikipedia des capitales](https://fr.wikipedia
 
 Ensuite, j'ai utilisé Selenium pour naviguer dans chacune des pages correspondantes aux noms de capitales précédemment obtenues. Ainsi, j'ai pu obtenir la position de toutes les capitales. Voici un exemple pour [Paris](https://fr.wikipedia.org/wiki/Paris#/maplink/0) : serez-vous retrouver ses coordonnées géographiques ?
 
+Enfin, j'ai affiché toutes les capitales sur une carte avec la librairie python Folium.
+
 # Code
 
 Voici le notebook du projet : [notebook](https://github.com/ThibaultLanthiez/Web-scaping/blob/main/Projet_5_Web_Scaping_Position_des_capitals.ipynb)
