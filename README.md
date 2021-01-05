@@ -2,7 +2,7 @@
 
 # Web scaping
 
-Le but de ce projet était de découvrir le web scraping et ses pratiques.
+Le but de ce projet était de découvrir le web scraping et ses applications.
 
 Mon objectif était, via des techniques de web scraping, d'obtenir les coordonnées géographiques de chacun des capitales de tous les pays du monde. 
 
